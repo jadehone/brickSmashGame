@@ -1,0 +1,22 @@
+body{
+  background: grey;
+  color: #70160A;
+  }
+
+h1{
+    font-family: 'Hanalei', cursive;
+    font-size: 4vw;
+    margin: 0;
+}
+
+.center{
+  text-align: center;
+  font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+button{
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  padding: 0.5vw;
+  margin-bottom: 1vw;
+  border-radius: 25%;
+  }
